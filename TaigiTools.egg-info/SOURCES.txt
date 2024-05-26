@@ -1,9 +1,0 @@
-LICENSE.txt
-README.md
-setup.py
-TaigiTools/__init__.py
-TaigiTools/utils.py
-TaigiTools.egg-info/PKG-INFO
-TaigiTools.egg-info/SOURCES.txt
-TaigiTools.egg-info/dependency_links.txt
-TaigiTools.egg-info/top_level.txt
