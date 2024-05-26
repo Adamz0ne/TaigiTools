@@ -1,2 +1,2 @@
 # TaigiTools
-Utilities for minor language commonly spoke in Taiwan.
+Utilities for ASR,TTS,NLP training on language called Taigi spoke in Taiwan.
